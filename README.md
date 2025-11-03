@@ -6,7 +6,7 @@
 
 ## 👩‍💻 About This Repository
 
-Hi, I'm **Priyanka Patel**, an aspiring **Software Test Engineer** passionate about automation testing.  
+Hi, I'm **Priyanka Patel**,**Software Test Engineer** passionate about automation testing.  
 This repository is a collection of everything I’m learning about **Playwright Automation using JavaScript** — from **basic concepts** to **building real testing frameworks**.  
 
 It’s my hands-on learning space where I practice, experiment, and grow as a **QA Automation Engineer**. 🌱  
