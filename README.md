@@ -107,8 +107,8 @@ Learning to create:
 **Priyanka Patel**  
 Aspiring QA Engineer | Automation Enthusiast | Lifelong Learner  
 
-💼 [LinkedIn](https://www.linkedin.com/)  
-💻 [GitHub](https://github.com/)  
+💼 [LinkedIn]()  
+💻 [GitHub]()  
 
 ---
 
